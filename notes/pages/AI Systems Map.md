@@ -1,0 +1,8 @@
+- My long term objective
+	- Become a systems-level AI Architect
+- Core domains
+	- [[Artificial Intelligence]]
+	- [[Mathematics]]
+	- [[Mandarin]]
+	- [[Systems Engineering]]
+	-
